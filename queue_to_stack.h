@@ -42,4 +42,4 @@ int my_get_length(node *q);
 
 static list_queue * buy_node();
 
-#endif _LIST_QUEUE_H_
+#endif
